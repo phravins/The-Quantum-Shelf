@@ -1,0 +1,5 @@
+{
+  "time": 2.0,
+  "space": 256,
+  "description": "Standard CP limits. 2.0s is generous for N=60, K=8 with correct DP."
+}
