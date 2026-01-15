@@ -3,14 +3,14 @@
 **Div1 / Div2 Competitive Programming Problem**
 ---
 
-## 🧠 Problemsetter Assessment
+## Problemsetter Assessment
 
 Design a **new, original competitive programming problem** suitable for **Codeforces Div1/Div2**.
 
 Your submission must follow the structure below and include a **working optimal solution implemented in C++**.
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 .
 ├── qwen/
@@ -35,7 +35,7 @@ Your submission must follow the structure below and include a **working optimal 
 ```
 ---
 
-## 📌 Requirements
+## Requirements
 
 - The problem must be **original**
 - Difficulty level: **Div1 / Div2**
@@ -67,7 +67,7 @@ Your submission must follow the structure below and include a **working optimal 
 
 ---
 
-## 📄 Repository Content
+## Repository Content
 
 - **problem.md** — Full problem statement  
 - **solution.cpp** — Reference solution (`O(N · Bell(K))`)  
@@ -76,7 +76,7 @@ Your submission must follow the structure below and include a **working optimal 
 - **test_cases/** — Edge and stress test cases  
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 g++ -O3 solution.cpp -o solution
@@ -84,7 +84,7 @@ g++ -O3 solution.cpp -o solution
 ```
 ---
 
-## 📊 Constraints
+## Constraints
 
 - `N ≤ 60`
 - `K ≤ 8`
